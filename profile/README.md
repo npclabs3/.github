@@ -5,16 +5,11 @@
 
 
 
-We are all about building the future of NFTs and ensuring global inclusion.
+We are all about building the future of digital assets and distributed intelligence. 
 
 
  
 Open source projects all have a `contribution.md` that holds exactly how to contribute 
 
 
-
-Documents for all our services can be found at https://docs.nftprintpro.com
-
-
-
-We eat ETH-SOL-NFTS for breakfast
+Learn more at npclabs.xyz
